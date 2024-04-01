@@ -1,0 +1,3 @@
+﻿D:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(yolov8.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  LINK : 没有找到 C:\Users\27995\Desktop\cpptest2\yolov8\x64\Debug\yolov7detection-x64-gpu.exe 或上一个增量链接没有生成它；正在执行完全链接
+  yolov8.vcxproj -> C:\Users\27995\Desktop\cpptest2\yolov8\x64\Debug\yolov7detection-x64-gpu.exe

@@ -1,0 +1,6 @@
+﻿D:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(yolov8.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+C:\Users\27995\Desktop\cpptest2\yolov7detection-x64-gpu\yolov7detection-x64-gpu\yolo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\27995\Desktop\cpptest2\yolov7detection-x64-gpu\yolov7detection-x64-gpu\yolo.h(61,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\27995\Desktop\cpptest2\yolov7detection-x64-gpu\yolov7detection-x64-gpu\main.cpp(33,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  yolov7detection-x64-gpu.vcxproj -> C:\Users\27995\Desktop\cpptest2\yolov7detection-x64-gpu\x64\Debug\yolov7detection-x64-gpu.exe
